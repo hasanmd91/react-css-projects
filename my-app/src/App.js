@@ -1,8 +1,9 @@
 import React from 'react'
+import Logo from './components/Logo'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div> <Logo /> </div>
   )
 }
 
